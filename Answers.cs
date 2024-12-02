@@ -45,10 +45,7 @@ class Program
 			}
 			i++;
 		}
-<<<<<<< HEAD
 		Console.ReadLine();
-=======
->>>>>>> e7128ca (If this overwrites everything i WILL cry)
 	}
 	
 }
