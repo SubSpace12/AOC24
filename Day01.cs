@@ -10,7 +10,6 @@ namespace AdventOfCode.Days
 {
 	internal class Day01
 	{
-		//for commit purposes
 		static public string[] input = File.ReadAllLines(@"..\..\Inputs\Day01.txt");
 
 		static (int[] LeftList, int[] RightList) ParseInput(string[] input)
